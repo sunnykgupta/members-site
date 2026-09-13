@@ -16,7 +16,7 @@ You can find a detailed guide [here](./CONTRIBUTING.md)!
 
 # Coding Conventions
 
-### There are only 2 things in computer science: cache invalidation & naming things — \***\*\*\*\***Phil Karlton\***\*\*\*\***
+### There are only 2 hard things in computer science: cache invalidation & naming things — \***\*\*\*\***Phil Karlton\***\*\*\*\***
 
 ## Imports Order
 
